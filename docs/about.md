@@ -4,7 +4,7 @@
 
 안녕하세요.
 
-클라우드 및 DevOps 분야에서 교육과 멘토링을 수행하고 있는 류승석입니다.
+클라우드 및 DevOps 분야에서 교육과 멘토링을 수행하고 있는 Xwingbit입니다.
 
 이 사이트는 AWS, DevOps, Kubernetes, Terraform 등 클라우드 네이티브 기술을 보다 쉽게 학습할 수 있도록 정리한 Learning Object 저장소입니다.
 
