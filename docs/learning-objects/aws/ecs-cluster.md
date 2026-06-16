@@ -55,7 +55,7 @@ ECS → Cluster 이동
 
 Cluster 생성
 
-## 결과 확인
+## 검증
 
 * Cluster 상태가 Active 인지 확인
 
