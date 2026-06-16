@@ -1,4 +1,4 @@
-# Xwingbit Homepage
+# 류승석 Learning Objects
 
 안녕하세요.
 
@@ -6,7 +6,31 @@ AWS / DevOps / Kubernetes 강사 류승석입니다.
 
 ## Learning Objects
 
-- AWS
-- DevOps
-- Kubernetes
-- Terraform
+### AWS
+
+* ECS Cluster 생성
+* ECS Service 생성
+* ECR 이미지 관리
+
+### DevOps
+
+* Git Branch 전략
+* Pull Request
+* GitHub Actions
+
+### Kubernetes
+
+* Pod
+* Deployment
+* Service
+
+### Terraform
+
+* Terraform 기본
+* Terraform State
+
+## Courses
+
+* AWS 기반 CI/CD 실무
+* Kubernetes 운영 실무
+* 클라우드 엔지니어 양성과정
