@@ -3,8 +3,8 @@ id: AWS-ECS-001
 title: ECS Cluster 생성
 difficulty: beginner
 duration: 15m
-prerequisites:
-- Docker 기본 개념
+prerequisites: 
+* Docker 기본 개념
 category: AWS/ECS
 version: "2026.1"
 last_updated: 2026-06-16
