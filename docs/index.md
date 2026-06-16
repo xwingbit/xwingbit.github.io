@@ -1,8 +1,6 @@
-# 류승석 Learning Objects
+# Xwingbit Learning Objects
 
 안녕하세요.
-
-AWS / DevOps / Kubernetes 강사 류승석입니다.
 
 ## Learning Objects
 
