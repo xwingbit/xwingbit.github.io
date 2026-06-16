@@ -96,6 +96,16 @@ ECS Service, Task Definition, Auto Scaling 등
 따라서 ECS 운영을 이해하기 위해서는
 Cluster 개념을 먼저 이해해야 한다.
 
-## 다음 학습
+## 학습 경로
+
+### 선수 오브젝트
+
+- AWS-DKR-001 Docker 기본 개념
+
+### 현재 오브젝트
+
+- AWS-ECS-001 ECS Cluster 생성
+
+### 다음 오브젝트
 
 - AWS-ECS-002 ECS Task Definition 생성
