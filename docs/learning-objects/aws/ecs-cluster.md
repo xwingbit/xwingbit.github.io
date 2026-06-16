@@ -1,14 +1,17 @@
 
-# 메타 정보
-* id: AWS-ECS-001
-* title: ECS Cluster 생성
-* difficulty: beginner
-* duration: 15m
-* prerequisites: Docker 기본 개념
-* category: AWS/ECS
-* version: "2026.1"
-* last_updated: 2026-06-16
-* tags: aws ecs container
+## 메타 정보
+
+| 항목 | 값 |
+|--------|--------|
+| ID | AWS-ECS-001 |
+| 제목 | ECS Cluster 생성 |
+| 난이도 | Beginner |
+| 예상시간 | 15분 |
+| 선수지식 | Docker 기본 개념 |
+| 카테고리 | AWS / ECS |
+| 버전 | 2026.1 |
+| 최종수정 | 2026-06-16 |
+| 태그 | aws, ecs, container |
 
 # ECS Cluster 생성
 
