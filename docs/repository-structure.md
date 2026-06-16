@@ -1,5 +1,8 @@
 
 ## 디렉토리 구조 (예시)
+
+이 저장소는 Learning Object와 Course를 분리하여 관리합니다.
+
 ```text
 docs
 ├── index.md
