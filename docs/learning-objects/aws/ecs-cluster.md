@@ -1,4 +1,3 @@
----
 id: AWS-ECS-001
 title: ECS Cluster 생성
 difficulty: beginner
@@ -12,7 +11,6 @@ tags:
 * aws
 * ecs
 * container
----
 
 # ECS Cluster 생성
 
