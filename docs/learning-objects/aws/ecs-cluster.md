@@ -13,6 +13,23 @@
 | 최종수정 | 2026-06-16 |
 | 태그 | aws, ecs, container |
 
+## 실습 환경
+
+### AWS 서비스
+
+- ECS
+- EC2
+- IAM
+
+### 실습 계정
+
+- AWS Academy
+
+### 예상 비용
+
+- 무료
+
+
 # ECS Cluster 생성
 
 ## 학습 목표
