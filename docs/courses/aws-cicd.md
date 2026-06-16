@@ -26,9 +26,9 @@ AWS 서비스를 활용하여 CI/CD 파이프라인을 구축한다.
 
 ### Module 3 ECS
 
-* ECS Cluster 생성
-* Task Definition 생성
-* ECS Service 생성
+* [AWS-ECS-001 ECS Cluster 생성](../learning-objects/aws/ecs-cluster.md)
+* AWS-ECS-002 Task Definition 생성
+* AWS-ECS-003 ECS Service 생성
 
 ### Module 4 CI/CD
 
